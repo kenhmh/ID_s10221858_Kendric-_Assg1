@@ -11,22 +11,22 @@ The website will be more cater to selling the merch as since viewing songs/ albu
 As a user type , I will like a easy naviagable page in order to explore this album/ songs but most importantly his merch. In order for me to view and potentially buying this products(merch)
 
 
-#Features
+# Features
  to be continued 
  
  
- #Technologies Used
+ # Technologies Used
  
  -Replit ( i know vsc is better but i am more used and prefer repilt as i can easier view the website i am building faster and more convinent .)
  -visual studio code( didnt used as much compare to repilt but i need to improve and get more used to using this as it is a industry standard)
  -adobe XD ( to create a wireframe to how my website will potentially look like, the XD version might be different then the final website due to feedback and changes)
  - w3schools website ( relies on this a lot as despite pratices done I still needed referance and guide in using some html,css language)
 
-#Testing
+# Testing
  not tested as this current stages( might have many flaws in code)  as i want make the base layout sturdy first, of course some testing are done in order to make sure my current code is working... BUT overall testing not check yet
  
  
- #Credits
+ # Credits
  -Media ( photo were taken from the internet {album photo, the artist photo}
     the video for the promoting songs were taken from the artist offical youtube channel}
 -Acknowledgement
