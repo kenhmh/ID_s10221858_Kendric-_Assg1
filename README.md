@@ -31,4 +31,4 @@ As a user type , I will like a easy naviagable page in order to explore this alb
     the video for the promoting songs were taken from the artist offical youtube channel}
  -Acknowledgement
   As I am a music lover being inspire by both past the current music sensation, i wanted to create a website that i will certianyl enjoy and part of my passion.
-  
+  z
