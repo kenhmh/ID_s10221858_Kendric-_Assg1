@@ -1,5 +1,4 @@
 # ID_s10221858_Kendric-_Assg1a
-#### TO BE CONTINUED AS PROJECT STILL IN PROGRESS ####
 Project is about creating a website fot a singer ( Justin bieber). As i am a fan and love his song , I wanted to create for him a website  which showcase clearly his songs and merch.I 
 
 
@@ -12,7 +11,7 @@ As a user type , I will like a easy naviagable page in order to explore this alb
 
 
 # Features
- to be continued 
+Easy navigation between pages
  
  
  # Technologies Used
@@ -29,4 +28,4 @@ works in both labtop and phone view
     the video for the promoting songs were taken from the artist offical youtube channel}
  -Acknowledgement
   As I am a music lover being inspire by both past the current music sensation, i wanted to create a website that i will certianyl enjoy and part of my passion.
-  z
+  - reference to other music artist website in how they organise their web
