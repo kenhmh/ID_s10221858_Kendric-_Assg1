@@ -1,0 +1,55 @@
+.button {
+  text-decoration: none;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa6d;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {
+  background-color: #3f1ae2;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+@media screen and (min-width: 601px) {
+  div.input {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.example {
+    font-size: 10px;
+  }
+}
+
+div {
+  text-align: center;
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
